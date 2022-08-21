@@ -1,0 +1,17 @@
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\bin\Debug\E_Okul_Proje.exe.config
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\bin\Debug\E_Okul_Proje.exe
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\bin\Debug\E_Okul_Proje.pdb
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.csproj.AssemblyReference.cache
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.Form1.resources
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.Properties.Resources.resources
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.csproj.GenerateResource.cache
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.csproj.CoreCompileInputs.cache
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.exe
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.pdb
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.FrmOgrenciNotlar.resources
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.FrmKulup.resources
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.FrmOgretmen.resources
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.FrmDers.resources
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.FrmOgrenci.resources
+C:\Users\findi\Desktop\Eren\Projeler\E_Okul_Proje\E_Okul_Proje\obj\Debug\E_Okul_Proje.FrmSınavNotlar.resources
